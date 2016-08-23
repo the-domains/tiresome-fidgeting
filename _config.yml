@@ -11,5 +11,9 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 layout_spectrum: 0.477234291145578
-name: tiresome fidgeting
+name: 'Test 1, 2, 3'
+navigation:
+  - name: Photographer
+    url: www.majabuck.com
+    type: external
 title: Maja Buck
